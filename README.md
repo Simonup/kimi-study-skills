@@ -14,9 +14,9 @@
 
 ## 在 Kimi Work 安装
 
-1. 在 Kimi Work 的对话中打开 `/plugin-builder`，发送本仓库的 GitHub 链接，并说：
+1. 在 Kimi Work 的对话中打开 `/plugin-builder`，发送：
 
-   > 请把这个仓库中 `skills/` 下的七个 Skill 导入为一个技能型个人插件。检查每个 `SKILL.md` 及其相对路径引用后，登记到我的个人插件页。
+   > 请把 https://github.com/Simonup/kimi-study-skills 中 `skills/` 下的七个 Skill 导入为一个技能型个人插件。检查每个 `SKILL.md` 及其相对路径引用后，登记到我的个人插件页。
 
 2. 导入完成后，打开「插件 → 个人」，找到新登记的插件，点击「安装」。
 3. 新开一个对话，输入 `/`，确认可以找到这些技能，再用一个简单问题试运行。
